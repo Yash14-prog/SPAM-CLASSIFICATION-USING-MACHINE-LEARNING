@@ -1,0 +1,146 @@
+[
+  {
+    "text": "Lunch at 1 PM today?",
+    "label": "ham"
+  },
+  {
+    "text": "Limited time offer! Buy one get one free!",
+    "label": "spam"
+  },
+  {
+    "text": "Meeting is scheduled at 3 PM. Please be on time.",
+    "label": "ham"
+  },
+  {
+    "text": "Hey, can you review this document by EOD?",
+    "label": "ham"
+  },
+  {
+    "text": "Lowest prices of the season! Don't miss this deal!",
+    "label": "spam"
+  },
+  {
+    "text": "Congratulations! You've won a free vacation. Click here to claim now.",
+    "label": "spam"
+  },
+  {
+    "text": "We noticed unusual activity in your account. Click here to secure it.",
+    "label": "spam"
+  },
+  {
+    "text": "Your account has been suspended. Provide your credentials immediately.",
+    "label": "spam"
+  },
+  {
+    "text": "Let's catch up tomorrow for the project sync-up.",
+    "label": "ham"
+  },
+  {
+    "text": "Please find the attached invoice for last month's work.",
+    "label": "ham"
+  },
+  {
+    "text": "Reminder: Project deadline is this Friday.",
+    "label": "ham"
+  },
+  {
+    "text": "I’ll be working remotely today, ping me on Teams if needed.",
+    "label": "ham"
+  },
+  {
+    "text": "Can you update the client on the delivery status?",
+    "label": "ham"
+  },
+  {
+    "text": "Join us for the weekly sync call at 10 AM.",
+    "label": "ham"
+  },
+  {
+    "text": "Download this file to fix critical errors in your system.",
+    "label": "spam"
+  },
+  {
+    "text": "Act fast! This crypto investment will double your money in 7 days!",
+    "label": "spam"
+  },
+  {
+    "text": "Earn $500 daily from home. No experience needed!",
+    "label": "spam"
+  },
+  {
+    "text": "FREE subscription to streaming services! Limited spots.",
+    "label": "spam"
+  },
+  {
+    "text": "Let’s finalize the presentation by end of day.",
+    "label": "ham"
+  },
+  {
+    "text": "Team lunch next Thursday – RSVP by Monday.",
+    "label": "ham"
+  },
+  {
+    "text": "Please share your availability for the training session.",
+    "label": "ham"
+  },
+  {
+    "text": "Can you help me with the slides for the demo?",
+    "label": "ham"
+  },
+  {
+    "text": "Your parcel is waiting! Confirm your delivery details now!",
+    "label": "spam"
+  },
+  {
+    "text": "You have been selected to receive a brand-new laptop. Click here!",
+    "label": "spam"
+  },
+  {
+    "text": "Exclusive discount for our loyal customers! Shop now!",
+    "label": "spam"
+  },
+  {
+    "text": "There's a bug in the latest release. Let's patch it ASAP.",
+    "label": "ham"
+  },
+  {
+    "text": "Can we reschedule our catch-up to tomorrow afternoon?",
+    "label": "ham"
+  },
+  {
+    "text": "Join our webinar and get free access to premium tools.",
+    "label": "spam"
+  },
+  {
+    "text": "Reminder: Performance reviews are due next week.",
+    "label": "ham"
+  },
+  {
+    "text": "Final call! Get your gift card before it's gone!",
+    "label": "spam"
+  },
+  {
+    "text": "Morning! Let's prep for the client meeting together.",
+    "label": "ham"
+  },
+  {
+    "text": "Please submit your timesheet by 6 PM today.",
+    "label": "ham"
+  },
+  {
+    "text": "This software will clean your PC instantly! Download now.",
+    "label": "spam"
+  },
+  {
+    "text": "You’re approved for a $5,000 loan. No credit check required!",
+    "label": "spam"
+  },
+  {
+    "text": "Great job on the presentation today!",
+    "label": "ham"
+  },
+  {
+    "text": "Could you send me the updated campaign stats?",
+    "label": "ham"
+  }
+]
